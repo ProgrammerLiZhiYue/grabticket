@@ -1,0 +1,23 @@
+{
+  "name": "electron-grabticket",
+  "version": "1.0.0",
+  "description": "\"# pythondemo\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgrammerLiZhiYue/pythondemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProgrammerLiZhiYue/pythondemo/issues"
+  },
+  "homepage": "https://github.com/ProgrammerLiZhiYue/pythondemo#readme",
+  "dependencies": {
+    "electron": "^2.0.6"
+  }
+}
