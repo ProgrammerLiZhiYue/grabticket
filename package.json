@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ProgrammerLiZhiYue/pythondemo#readme",
   "dependencies": {
+    "date-fns": "^1.29.0",
     "electron": "^2.0.6"
   }
 }
